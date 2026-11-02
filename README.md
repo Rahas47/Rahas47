@@ -1,13 +1,9 @@
-## Hi there 👋
+## Hi! I'm Rahas Sachdeva, a freshman at Northeastern University pursuing a combined major in Artificial Intelligence and Business Administration with a concentration in Finance and a minor in Mathematics. I'm also part of the John Martinson Honors Program.
 
 <!--
 **Rahas47/Rahas47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-CS212100 — Rahas Sachdeva
-
-About Me
-
-Hi! I'm Rahas Sachdeva, a freshman at Northeastern University pursuing a combined major in Artificial Intelligence and Business Administration with a concentration in Finance and a minor in Mathematics. I'm also part of the John Martinson Honors Program.
+Rahas Sachdeva
 
 I'm interested in the intersection of technology, finance, and problem-solving. My programming experience includes Python, Java, and MATLAB/Simulink.
 
